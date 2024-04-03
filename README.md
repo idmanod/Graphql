@@ -1,1 +1,1 @@
-# HRMSTest
+# Graphql
